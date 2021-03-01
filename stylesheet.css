@@ -1,0 +1,50 @@
+.container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 130px 1px 0px;
+    background: gray;
+}
+
+.background {
+    background-color: green;
+}
+
+.wKeys {
+    padding: 129px 20px 21px;
+    border: solid gray 1px;
+    background: white;
+    width: 1px;
+    height: 100%;
+    font-size: 15pt;
+
+}
+
+.b1Keys {
+    position: relative;
+    padding: 76.5px 10px 7px;
+    border: solid gray 1px;
+    background: black;
+    width: 1px;
+    height: 100%;
+    font-size: 10pt;
+    right: -20px;
+    top:   -79px;
+    margin-left: 22px;
+    color: white;
+}
+
+.b2Keys {
+    position: relative;
+    padding: 76.5px 10px 7px;
+    border: solid gray 1px;
+    background: black;
+    width: 1px;
+    height: 100%;
+    font-size: 10pt;
+    right: -76px;
+    top:   -79px;
+    margin-left: 25px;
+    color: white;
+}
